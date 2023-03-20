@@ -1,16 +1,11 @@
 ### Hi there prachi  👋
 
-<!--
-**prachi913/prachi913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Portfolio : <a href=""> prachi </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning MERN stack web development.
+👯 I’m looking to work on full stack web development.
+💬 Ask me about HTML, CSS, JavaScript, React.
+📫 How to reach me: 
+😄 Pronouns: She/Her
+⚡ Fun fact: I love listening to music. My LinkedIn: 
