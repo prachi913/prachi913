@@ -1,16 +1,11 @@
 
-
-
-
-
-⚡ 
- 
-      <h1 align="center">Hi 👋, I'm Prachi Tiwari</h1>
-      Portfolio : <a href="https://prachi913.github.io/"> prachi </a>
+ <h1 align="center">Hi 👋, I'm Prachi Tiwari</h1>
+     
 
 🌱 I’m currently learning MERN stack web development.
 👯 I’m looking to work on full stack web development.
 💬 Ask me about HTML, CSS, JavaScript, React.
+ Portfolio : <a href="https://prachi913.github.io/"> prachi </a>
 📫 How to reach me:  <a href="prachitiwari0911@gmail.com">Email-prachitiwari0911@gmail.com</a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
