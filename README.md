@@ -5,7 +5,7 @@
 🌱 I’m currently learning MERN stack web development.
 👯 I’m looking to work on full stack web development.
 💬 Ask me about HTML, CSS, JavaScript, React.
- Portfolio : <a href="https://prachi913.github.io/"> prachi </a>
+ Portfolio : <a href="https://prachi913.github.io/](https://64481b78deb85400b04cd5de--jocular-genie-6d689e.netlify.app/"> prachi </a>
 📫 How to reach me:  <a href="prachitiwari0911@gmail.com">Email-prachitiwari0911@gmail.com</a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
