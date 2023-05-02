@@ -35,8 +35,14 @@ Email: <a href="/">prachitiwari0911@gmail.com</a></p>
 
 
  <p  align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi913&show_icons=true&locale=en&layout=compact" alt="prachi913" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi913&show_icons=true&locale=en" alt="prachi913" />
+
+
+</p>
+<p  align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi913&show_icons=true&locale=en&layout=compact" alt="prachi913" />
+
 
 
 </p>
