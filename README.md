@@ -6,7 +6,7 @@
 👯 I’m looking to work on full stack web development.
 💬 Ask me about HTML, CSS, JavaScript, React.
  Portfolio : <a href="https://644bc4153610be03adb1999a--jocular-genie-6d689e.netlify.app/"> prachi </a>
-📫 How to reach me:  <a href="prachitiwari0911@gmail.com">Email-prachitiwari0911@gmail.com</a>
+📫 How to reach me:  <a href="">Email-prachitiwari0911@gmail.com</a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi913&label=Profile%20views&color=0e75b6&style=flat" alt="prachi913" /> </p>
