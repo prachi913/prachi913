@@ -20,7 +20,7 @@
 
 </p>
 <p align="center">
- Portfolio: <a href="https://644bc4153610be03adb1999a--jocular-genie-6d689e.netlify.app/"> Prachi_Tiwari </a></p>
+ Portfolio: <a href="https://prachi913.github.io/"> Prachi_Tiwari </a></p>
  
  <p align="center">
 Email: <a href="/">prachitiwari0911@gmail.com</a></p>
